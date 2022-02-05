@@ -147,27 +147,305 @@ Virgil. Selections.
 {{< anchor "session" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------
 
-| SES # | Topics | READINGS |
-| --- | --- | --- |
-| 1 | Introduction - To an Experiment and a Century  {{< br >}}  {{< br >}}Objectives: To provide some basic grounding in the historical period, to establish the parameters of this subject, and to adapt our plan to fit the interests of our student participants. | &nbsp; |
-| 2 | Discussion of Brecht's _Galileo_  {{< br >}}  {{< br >}}Objectives: To examine one twentieth-century playwright's artistic practice, to establish our abilities and approaches as readers of drama, and to consider the reasons for writing historical drama set in the seventeenth century. | Brecht, Bertolt. _Galileo_.  {{< br >}}  {{< br >}}If you have already read _Galileo_, please review the play and read: Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography." |
-| 3 | _Galileo_ in Historical Perspective: Developing Questions | Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography.  {{< br >}}  {{< br >}}"Dunn, Richard S. "The Puritan Revolution."  {{< br >}}  {{< br >}}———. "The Century of Genius." (Skim) |
-| 4 | Discussion of _King Lear_ | Shakespeare, William. _King Lear_.  {{< br >}}  {{< br >}}Foucault, Michel. _The Order of Things_. Chapter 1. |
-| 5 | The Changes Across a Century: The Example of Tate's _King Lear_ | Tate, Nahum. _King Lear_.  {{< br >}}  {{< br >}}Selections from Tillyard and Willey |
-| 6 | Discussion with Historian of Science Arne Hessenbruch | Shapin, Steven and Simon Schaffer. _Leviathan and the Air-Pump_. Chapter 1. |
-| 7 | John Ford's _The Broken Heart_  {{< br >}}  {{< br >}}Optional Event: Literature presentation by playwright Max Hafler: "Faustus: Adapting and Directing the Elizabethan Bad Boy, Christopher Marlowe." | Ford, John. The _Broken Heart_.  {{< br >}}  {{< br >}}Brockett. _History of the Theater_. Chapter 9. |
-| 8 | Guest Scholar | Selections from _The Western Tradition: From the Renaissance to the Atomic Age_. Edited by Eugen Weber. |
-| 9 | Discussion of Brome's _The Antipodes_ and Caroline Theater | Brome, Richard. _The Antipodes_. |
-| 10 | Discussion of Shirley's _The Cardinal_ | Shirley, James. _The Cardinal_. |
-| 11 | Visit from Prof. Mary Campbell, Poet and Author of _Wonder and Science_ | Readings in poetry and science. |
-| 12 | Visit from Prof. Ellen Harris on Davenant and Music | Readings on masques, music, and voice. |
-| 13 | Prof. Sonenberg's Solo Day | &nbsp; |
-| 14 | The Civil War, in History and Art | &nbsp; |
-| 15 | Churchill's _Light Shining in Buckinghamshire_ | Churchill, Caryl. _Light Shining in Buckinghamshire_.  {{< br >}}  {{< br >}}Selections by Christopher Hill. |
-| 16 | Poetry, Language, Wit | Selections from Browne, Milton, and Marvell. |
-| 17 | Discussion of Two Versions of _Hydriotaphia_ | Kushner, Tony. _Hydriotaphia_. |
-| 18-19 | Experiments, Round One | &nbsp; |
-| 20 | Reports and Discussion | &nbsp; |
-| 21-22 | Reports and Break-outs | &nbsp; |
-| 23-24 | That Which Needs Doing | &nbsp; |
-| 25-26 | Experiments, Round Two |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - To an Experiment and a Century  
+  
+Objectives: To provide some basic grounding in the historical period, to establish the parameters of this subject, and to adapt our plan to fit the interests of our student participants.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Brecht's _Galileo_  
+  
+Objectives: To examine one twentieth-century playwright's artistic practice, to establish our abilities and approaches as readers of drama, and to consider the reasons for writing historical drama set in the seventeenth century.
+{{< tdclose >}}
+{{< tdopen >}}
+Brecht, Bertolt. _Galileo_.  
+  
+If you have already read _Galileo_, please review the play and read: Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Galileo_ in Historical Perspective: Developing Questions
+{{< tdclose >}}
+{{< tdopen >}}
+Lovejoy, Arthur. "The Principle of Plenitude and the New Cosmography.  
+  
+"Dunn, Richard S. "The Puritan Revolution."  
+  
+———. "The Century of Genius." (Skim)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of _King Lear_
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, William. _King Lear_.  
+  
+Foucault, Michel. _The Order of Things_. Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Changes Across a Century: The Example of Tate's _King Lear_
+{{< tdclose >}}
+{{< tdopen >}}
+Tate, Nahum. _King Lear_.  
+  
+Selections from Tillyard and Willey
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion with Historian of Science Arne Hessenbruch
+{{< tdclose >}}
+{{< tdopen >}}
+Shapin, Steven and Simon Schaffer. _Leviathan and the Air-Pump_. Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+John Ford's _The Broken Heart_  
+  
+Optional Event: Literature presentation by playwright Max Hafler: "Faustus: Adapting and Directing the Elizabethan Bad Boy, Christopher Marlowe."
+{{< tdclose >}}
+{{< tdopen >}}
+Ford, John. The _Broken Heart_.  
+  
+Brockett. _History of the Theater_. Chapter 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Scholar
+{{< tdclose >}}
+{{< tdopen >}}
+Selections from _The Western Tradition: From the Renaissance to the Atomic Age_. Edited by Eugen Weber.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Brome's _The Antipodes_ and Caroline Theater
+{{< tdclose >}}
+{{< tdopen >}}
+Brome, Richard. _The Antipodes_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Shirley's _The Cardinal_
+{{< tdclose >}}
+{{< tdopen >}}
+Shirley, James. _The Cardinal_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Visit from Prof. Mary Campbell, Poet and Author of _Wonder and Science_
+{{< tdclose >}}
+{{< tdopen >}}
+Readings in poetry and science.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Visit from Prof. Ellen Harris on Davenant and Music
+{{< tdclose >}}
+{{< tdopen >}}
+Readings on masques, music, and voice.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sonenberg's Solo Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Civil War, in History and Art
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill's _Light Shining in Buckinghamshire_
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill, Caryl. _Light Shining in Buckinghamshire_.  
+  
+Selections by Christopher Hill.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Poetry, Language, Wit
+{{< tdclose >}}
+{{< tdopen >}}
+Selections from Browne, Milton, and Marvell.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Two Versions of _Hydriotaphia_
+{{< tdclose >}}
+{{< tdopen >}}
+Kushner, Tony. _Hydriotaphia_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+Experiments, Round One
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Reports and Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Reports and Break-outs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+That Which Needs Doing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Experiments, Round Two
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

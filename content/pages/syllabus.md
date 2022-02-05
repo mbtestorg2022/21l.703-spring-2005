@@ -60,12 +60,57 @@ In addition, I ask that you take stock of your skills and accomplishments at thr
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| First Paper/Project | 15% |
-| Second Paper/Project | 30% |
-| Research Presentations | 25% |
-| Group Work, Attendance, Discussion, Leadership, and Active Participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Paper/Project
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Paper/Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Work, Attendance, Discussion, Leadership, and Active Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You can't put on a play if the actors don't show up. You can't pass this class if you aren't here to participate in discussions, group work, and performances. It's that kind of class.
 
@@ -83,27 +128,222 @@ In addition to welcoming your participation in class, I encourage you to discuss
 Calendar
 --------
 
-| SES # | Topics |
-| --- | --- |
-| 1 | Introduction - To an Experiment and a Century  {{< br >}}  {{< br >}}Objectives: To provide some basic grounding in the historical period, to establish the parameters of this subject, and to adapt our plan to fit the interests of our student participants. |
-| 2 | Discussion of Brecht's _Galileo_  {{< br >}}  {{< br >}}Objectives: To examine one twentieth-century playwright's artistic practice, to establish our abilities and approaches as readers of drama, and to consider the reasons for writing historical drama set in the seventeenth century. |
-| 3 | _Galileo_ in Historical Perspective: Developing Questions |
-| 4 | Discussion of _King Lear_ |
-| 5 | The Changes Across a Century: The Example of Tate's _King Lear_ |
-| 6 | Discussion with Historian of Science Arne Hessenbruch |
-| 7 | John Ford's _The Broken Heart_  {{< br >}}  {{< br >}}Optional Event: Literature presentation by playwright Max Hafler: "Faustus: Adapting and Directing the Elizabethan Bad Boy, Christopher Marlowe." |
-| 8 | Guest Scholar |
-| 9 | Discussion of Brome's _The Antipodes_ and Caroline Theater |
-| 10 | Discussion of Shirley's _The Cardinal_ |
-| 11 | Visit from Prof. Mary Campbell, Poet and Author of _Wonder and Science_ |
-| 12 | Visit from Prof. Ellen Harris on Davenant and Music |
-| 13 | Prof. Sonenberg's Solo Day |
-| 14 | The Civil War, in History and Art |
-| 15 | Churchill's _Light Shining in Buckinghamshire_ |
-| 16 | Poetry, Language, Wit |
-| 17 | Discussion of Two Versions of _Hydriotaphia_ |
-| 18-19 | Experiments, Round One |
-| 20 | Reports and Discussion |
-| 21-22 | Reports and Break-outs |
-| 23-24 | That Which Needs Doing |
-| 25-26 | Experiments, Round Two
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction - To an Experiment and a Century  
+  
+Objectives: To provide some basic grounding in the historical period, to establish the parameters of this subject, and to adapt our plan to fit the interests of our student participants.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Brecht's _Galileo_  
+  
+Objectives: To examine one twentieth-century playwright's artistic practice, to establish our abilities and approaches as readers of drama, and to consider the reasons for writing historical drama set in the seventeenth century.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Galileo_ in Historical Perspective: Developing Questions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of _King Lear_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Changes Across a Century: The Example of Tate's _King Lear_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion with Historian of Science Arne Hessenbruch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+John Ford's _The Broken Heart_  
+  
+Optional Event: Literature presentation by playwright Max Hafler: "Faustus: Adapting and Directing the Elizabethan Bad Boy, Christopher Marlowe."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Scholar
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Brome's _The Antipodes_ and Caroline Theater
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Shirley's _The Cardinal_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Visit from Prof. Mary Campbell, Poet and Author of _Wonder and Science_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Visit from Prof. Ellen Harris on Davenant and Music
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Sonenberg's Solo Day
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Civil War, in History and Art
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Churchill's _Light Shining in Buckinghamshire_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Poetry, Language, Wit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Two Versions of _Hydriotaphia_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+Experiments, Round One
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Reports and Discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Reports and Break-outs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+That Which Needs Doing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Experiments, Round Two
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
